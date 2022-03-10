@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/baseline_home_black_24dp"
+        android:title="home"/>
+    <item
+        android:id="@+id/action_post"
+        android:icon="@drawable/baseline_list_alt_black_24dp"
+        android:title="post"/>
+    <item
+        android:id="@+id/action_chat"
+        android:icon="@drawable/baseline_forum_black_24dp"
+        android:title="chat"/>
+    <item
+        android:id="@+id/action_people"
+        android:icon="@drawable/baseline_fact_check_black_24dp"
+        android:title="people"/>
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/baseline_people_black_24dp"
+        android:title="account"/>
+
+
+
+</menu>
